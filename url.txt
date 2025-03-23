@@ -1,1 +1,1 @@
-https://bikesharingdashboard-dewikunthisiswati.streamlit.app
+https://laskarai-dashboard-dewi.streamlit.app/

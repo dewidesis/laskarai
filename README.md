@@ -36,7 +36,7 @@ Additionally, this data analytics dashboard has been deployed via the Streamlit 
 4. Activate the Python virtual environment if necessary.
 5. Install Streamlit and other required libraries with the command:
    ```
-   pip install streamlit pandas matplotlib seabor plotly plotly.express
+   pip install requirements.txt
    ```
 6. Run the dashboard application with the command:
    ```
